@@ -1,9 +1,9 @@
 {
 "meta":{"launch_mode":"Eval","name":"","iteration_count":5,"learn_metrics":[],"test_sets":["eval_dataset"],"test_metrics":[{"best_value":"Max","name":"AUC"}],"learn_sets":[]},
 "iterations":[
-{"iteration":0,"eval_dataset":[0.6831258255]},
-{"iteration":1,"eval_dataset":[0.7048593831]},
-{"iteration":2,"eval_dataset":[0.707365029]},
-{"iteration":3,"eval_dataset":[0.7066142566]},
-{"iteration":4,"eval_dataset":[0.7066142566]}
+{"iteration":0,"eval_dataset":[0.6174026487]},
+{"iteration":1,"eval_dataset":[0.6174026487]},
+{"iteration":2,"eval_dataset":[0.6674203382]},
+{"iteration":3,"eval_dataset":[0.7053902896]},
+{"iteration":4,"eval_dataset":[0.7224471821]}
 ]}
